@@ -1,294 +1,91 @@
+
 {
-  "data": [
-      {
-        "_id": "6425aedf14266086e75a4cc2",
-        "title": "Computer Fundamental",
-        "description": "Basic Fundamental Question",
-        "time": 90,
-        "totalMarks": 30,
-        "subject": "computer",
-        "category": "fundamental",
-        "status":true,
-        "questions": [
-          {
-            "question": "What is Computer",
-            "option1": "machine",
-            "option2": "calculator",
-            "option3": "game",
-            "option4": "software",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is computer",
-            "_id": "6425aedf14266086e75a4cc3"
-          },
-          {
-            "question": "What is RAM?",
-            "option1": "Random Access Memory",
-            "option2": "Read-Only Memory",
-            "option3": "Secondary Memory",
-            "option4": "Cache Memory",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is a type of memory that can be accessed randomly.",
-            "_id": "6425aedf14266086e75a4cc4"
-          },
-          {
-            "question": "What is a CPU?",
-            "option1": "Central Processing Unit",
-            "option2": "Central Power Unit",
-            "option3": "Computer Processing Unit",
-            "option4": "Computer Power Unit",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is the brain of the computer.",
-            "_id": "6425aedf14266086e75a4cc5"
-          },
-          {
-            "question": "What is an Operating System?",
-            "option1": "Software that manages computer hardware and software resources",
-            "option2": "Software that manages computer games",
-            "option3": "Software that manages computer peripherals",
-            "option4": "Software that manages computer graphics",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is the software that manages computer hardware and software resources.",
-            "_id": "6425aedf14266086e75a4cc6"
-          },
-          {
-            "question": "What is a file?",
-            "option1": "A collection of data or information that has a name, called a filename",
-            "option2": "A device used to store data",
-            "option3": "A device used to display data",
-            "option4": "A device used to input data",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is a collection of data or information that has a name, called a filename.",
-            "_id": "6425aedf14266086e75a4cc7"
-          },
-          {
-            "question": "What is a motherboard?",
-            "option1": "The main circuit board in a computer that connects all the components",
-            "option2": "The physical case that contains the computer components",
-            "option3": "The part of the computer that produces sound",
-            "option4": "The component that controls the computer's power supply",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is the main circuit board in a computer that connects all the components.",
-            "_id": "6425aedf14266086e75a4cc8"
-          },
-          {
-            "question": "What is a peripheral?",
-            "option1": "An external device that connects to a computer and expands its capabilities",
-            "option2": "A type of software that runs on a computer",
-            "option3": "A type of processor found in computers",
-            "option4": "A component of a computer that stores data",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is a collection of data or information that has a name, called a filename.",
-            "_id": "6425aedf14266086e75a4cc9"
-          },
-          {
-            "question": "What is the difference between hardware and software?",
-            "option1": "Hardware is the physical components of a computer while software is the set of instructions that tell the hardware what to do.",
-            "option2": "Hardware is the set of instructions that tell the computer what to do while software is the physical components of a computer.",
-            "option3": "Hardware and software are the same thing.",
-            "option4": "Hardware and software are not related to computers.",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "Hardware is physical components and software is a set of instructions.",
-            "_id": "6425aedf14266086e75a4cca"
-          },
-          {
-            "question": "What is a byte?",
-            "option1": "A unit of measurement for computer storage",
-            "option2": "A type of computer virus",
-            "option3": "A type of computer peripheral",
-            "option4": "A type of computer game",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is a unit of measurement for computer storage.",
-            "_id": "6425aedf14266086e75a4ccb"
-          },
-          {
-            "question": "What is a network?",
-            "option1": "A group of two or more computer systems linked together",
-            "option2": "A type of software",
-            "option3": "A type of computer virus",
-            "option4": "A type of computer game",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is a group of two or more computer systems linked together.",
-            "_id": "6425aedf14266086e75a4ccc"
-          },
-          {
-            "question": "What is a web browser?",
-            "option1": "A software application used to access and view websites",
-            "option2": "A hardware device used to view websites",
-            "option3": "A type of computer virus",
-            "option4": "A type of computer game",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is a software application used to access and view websites.",
-            "_id": "6425aedf14266086e75a4ccd"
-          },
-          {
-            "question": "What is a URL?",
-            "option1": "Uniform Resource Locator",
-            "option2": "Unified Resource Locator",
-            "option3": "Unit Resource Locator",
-            "option4": "Unique Resource Locator",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It stands for Uniform Resource Locator.",
-            "_id": "6425aedf14266086e75a4cce"
-          },
-          {
-            "question": "What is an email?",
-            "option1": "Electronic mail",
-            "option2": "Electric mail",
-            "option3": "Ethernet mail",
-            "option4": "Enveloped mail",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It stands for Electronic mail.",
-            "_id": "6425aedf14266086e75a4ccf"
-          },
-          {
-            "question": "What is a mouse?",
-            "option1": "A pointing device used to move the cursor on a computer screen",
-            "option2": "A type of computer virus",
-            "option3": "A type of computer game",
-            "option4": "A type of computer peripheral",
-            "correct": "option1",
-            "marks": 20,
-            "hint": "It is a pointing device used to move the cursor on a computer screen.",
-            "_id": "6425aedf14266086e75a4cd0"
-          }
-        ],
-        "__v": 0
-      },
-      {
-        "_id": "6425b08814266086e75a4cd2",
-        "title": "Internet Basics",
-        "description": "Test your knowledge of basic internet concepts",
-        "time": 60,
-        "totalMarks": 40,
-        "subject": "computer",
-        "category": "internet",
-        "status":true,
-        "questions": [
-          {
-            "question": "What does the term 'URL' stand for?",
-            "option1": "Universal Resource Locator",
-            "option2": "United Resource Listing",
-            "option3": "User Research Library",
-            "option4": "Ultimate Research Link",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It's a way of identifying a web page.",
-            "_id": "6425b08814266086e75a4cd3"
-          },
-          {
-            "question": "What does the term 'HTML' stand for?",
-            "option1": "Hypertext Markup Language",
-            "option2": "Hyperlink Text Markup Library",
-            "option3": "High Traffic Main Loop",
-            "option4": "Hyperlink Transfer Method",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It's the standard language used to create web pages.",
-            "_id": "6425b08814266086e75a4cd4"
-          },
-          {
-            "question": "What is a 'cookie'?",
-            "option1": "A small file that a website stores on your computer to remember information about you",
-            "option2": "A type of virus that spreads through email",
-            "option3": "A type of computer program that plays music",
-            "option4": "A type of computer game",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It's a way for websites to remember your preferences.",
-            "_id": "6425b08814266086e75a4cd5"
-          },
-          {
-            "question": "What is an 'IP address'?",
-            "option1": "A unique identifier assigned to every device connected to the internet",
-            "option2": "A type of email address",
-            "option3": "A type of website domain name",
-            "option4": "A type of computer virus",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It's like a phone number for your device on the internet.",
-            "_id": "6425b08814266086e75a4cd6"
-          },
-          {
-            "question": "What is a 'search engine'?",
-            "option1": "A website that allows you to search for information on the internet",
-            "option2": "A type of computer virus",
-            "option3": "A type of computer game",
-            "option4": "A type of internet service provider",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It's a tool to help you find what you're looking for on the internet.",
-            "_id": "6425b08814266086e75a4cd7"
-          },
-          {
-            "question": "What is 'bandwidth'?",
-            "option1": "The amount of data that can be transmitted over an internet connection in a given time",
-            "option2": "The amount of money you pay for internet service",
-            "option3": "The speed at which data travels over an internet connection",
-            "option4": "The maximum number of devices that can connect to an internet connection at once",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It affects how fast your internet connection is.",
-            "_id": "6425b08814266086e75a4cd8"
-          },
-          {
-            "question": "What is a 'firewall'?",
-            "option1": "A security system that monitors and controls incoming and outgoing network traffic",
-            "option2": "A type of computer virus",
-            "option3": "A type of computer game",
-            "option4": "A type of computer program that displays advertisements",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It helps protect your computer from malicious attacks.",
-            "_id": "6425b08814266086e75a4cd9"
-          },
-          {
-            "question": "What is a 'modem'?",
-            "option1": "A device that connects your computer to the internet",
-            "option2": "A type of computer virus",
-            "option3": "A type of computer program that creates graphics",
-            "option4": "A type of computer game",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It converts digital data to a signal that can be transmitted over telephone or cable lines.",
-            "_id": "6425b08814266086e75a4cda"
-          },
-          {
-            "question": "What is 'Wi-Fi'?",
-            "option1": "A wireless networking technology that allows devices to connect to the internet",
-            "option2": "A type of computer virus",
-            "option3": "A type of computer program that creates documents",
-            "option4": "A type of computer game",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It allows you to connect to the internet without cables.",
-            "_id": "6425b08814266086e75a4cdb"
-          },
-          {
-            "question": "What is 'phishing'?",
-            "option1": "A type of online scam where criminals try to trick you into revealing personal information",
-            "option2": "A type of computer virus",
-            "option3": "A type of computer program that plays music",
-            "option4": "A type of computer game",
-            "correct": "option1",
-            "marks": 4,
-            "hint": "It's important to be cautious of suspicious emails and websites.",
-            "_id": "6425b08814266086e75a4cdc"
-          }
-        ],
-        "__v": 0
-      }
-    ]
-  }
+   "Beauty":[
+    {
+        "id":1,
+         "name":"Floral Garden Eau De Perfume",
+         "price":"₹999",
+         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOeVzg6nu1680261160_68412edbd9ad298486fd4305cd79b633280d8b0829517ddbd46874c6b3c1ddc0.jpg"
+    },
+    {
+        "id":2,
+         "name":"Jasmine & Orange Blossom Eau De Perfume",
+         "price":"₹999",
+         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLO7zOaKZk1680261233_d9677f058db6e877ceb76a9908445b88b322fb4e72e0c08d2210f714ba988f50.jpg"
+    },
+    {
+        "id":3,
+         "name":"Beautiful Rose Shower Gel By Body Cupid",
+         "price":"₹349",
+         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOZjWPVIr1680261180_593aa33419b491d666fb92ac63c75bd1023aa48c37397f6321edc4ea0716ac15.jpg"
+    },
+    {
+        "id":4,
+         "name":"Red Plum Body Butter By Body Cupid",
+         "price":"₹399",
+         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOYtbSdST1680261120_b3361dbaa5ed3130a3fdb910b2da646eeadb0c13af7da92dbf7b323d5ebb33d0.jpg"
+    },
+    {
+        "id":5,
+         "name":"Himalayan Rose Foaming Face Wash",
+         "price":"₹349",
+         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOtEwp4i21680261140_a58298404b2cdaacd812f2ee38356e84b429570b6df34bb2c8352951c896eb40.jpg"
+    },
+    {
+        "id":6,
+         "name":"Chocolate Body Scrub By Body Cupid",
+         "price":"₹499",
+         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOyT21fr11680261153_57d0ca87767c1f532d2d8072b6e1163177f6acd67673894f0c8a4989621795d6.jpg"
+    },
+    {
+        "id":7,
+         "name":" Neem And Tea Tree Anti Acne Gel Cream By Body Cupid",
+         "price":"₹499",
+         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOav3j2x31680261176_cf8a4b1179fdbf88b56f8bbc16f14fccaec89b12856b3ce8b427fb1fddbcea9d.jpg"
+    },
+    {
+        "id":8,
+         "name":"Vitamin C Face Pack With Kakadu Plum And Mulberry Extract",
+         "price":"₹499",
+         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLO79Aehqv1680261137_65100904bce1f5859583354f515c0b34ddba8207ab6e4a863081e901a873d182.jpg"
+    },
+    {
+        "id":9,
+         "name":"10% Niacinamide Serum",
+         "price":"₹599",
+         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOBBXijmd1679934642_6fd5b0abac2559016a3c6a63df167e6b5adaa52a94171ea808aab735b5638dc3.jpg"
+    },
+    {
+        "id":10,
+         "name":"Ginger Hair Oil For Dandruff Care With Comb Applicator - 100 MlFrom Wow Skin Science",
+         "price":"₹325",
+         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOHZXHtJ21680261245_22e1dd24c822709aa22a93cbd74fcfa36e750af43a0c847d3ebed30296730eed.jpg"
+    },
+    {
+        "id":11,
+         "name":"Stretch Care Body Butte",
+         "price":"₹499",
+         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLObJDEtQ31680174595_19a731e5da41f50b8e4c87a27f21b4d195c98fcd286063a3c5bb94dd87593a50.jpg"
+    },
+    {
+        "id":12,
+         "name":"Thai Body Massage Oil",
+         "price":"₹569",
+         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLO1r4lfot1680261163_7f69e17bfedae2759bf43560b52c4b622fa6c5fac30940e1d0c2b3b2c99f5e85.jpg"
+    },
+    {
+        "id":13,
+         "name":"Vitamin C Hand & Nail Cream - Moisturizing & Refreshing",
+         "price":"₹349",
+         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOqvxnIvP1680285152_5a9a16deebedb30a5c8177073bd7e32062a1312e105c0e64680cc8378fdc6ebf.jpg"
+    },
+    {
+        "id":14,
+         "name":"Matcha Green Tea Foaming Face Wash",
+         "price":"₹399",
+         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOVuAVA9b1680261235_76bc7c012cb7bea8cf5e0d41252d6203a70600d854e694045a63063001e6acbe.jpg"
+    }
+    
+       
+   ]
+}
