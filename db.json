@@ -1,91 +1,18 @@
-
 {
-   "Beauty":[
-    {
-        "id":1,
-         "name":"Floral Garden Eau De Perfume",
-         "price":"₹999",
-         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOeVzg6nu1680261160_68412edbd9ad298486fd4305cd79b633280d8b0829517ddbd46874c6b3c1ddc0.jpg"
-    },
-    {
-        "id":2,
-         "name":"Jasmine & Orange Blossom Eau De Perfume",
-         "price":"₹999",
-         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLO7zOaKZk1680261233_d9677f058db6e877ceb76a9908445b88b322fb4e72e0c08d2210f714ba988f50.jpg"
-    },
-    {
-        "id":3,
-         "name":"Beautiful Rose Shower Gel By Body Cupid",
-         "price":"₹349",
-         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOZjWPVIr1680261180_593aa33419b491d666fb92ac63c75bd1023aa48c37397f6321edc4ea0716ac15.jpg"
-    },
-    {
-        "id":4,
-         "name":"Red Plum Body Butter By Body Cupid",
-         "price":"₹399",
-         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOYtbSdST1680261120_b3361dbaa5ed3130a3fdb910b2da646eeadb0c13af7da92dbf7b323d5ebb33d0.jpg"
-    },
-    {
-        "id":5,
-         "name":"Himalayan Rose Foaming Face Wash",
-         "price":"₹349",
-         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOtEwp4i21680261140_a58298404b2cdaacd812f2ee38356e84b429570b6df34bb2c8352951c896eb40.jpg"
-    },
-    {
-        "id":6,
-         "name":"Chocolate Body Scrub By Body Cupid",
-         "price":"₹499",
-         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOyT21fr11680261153_57d0ca87767c1f532d2d8072b6e1163177f6acd67673894f0c8a4989621795d6.jpg"
-    },
-    {
-        "id":7,
-         "name":" Neem And Tea Tree Anti Acne Gel Cream By Body Cupid",
-         "price":"₹499",
-         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOav3j2x31680261176_cf8a4b1179fdbf88b56f8bbc16f14fccaec89b12856b3ce8b427fb1fddbcea9d.jpg"
-    },
-    {
-        "id":8,
-         "name":"Vitamin C Face Pack With Kakadu Plum And Mulberry Extract",
-         "price":"₹499",
-         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLO79Aehqv1680261137_65100904bce1f5859583354f515c0b34ddba8207ab6e4a863081e901a873d182.jpg"
-    },
-    {
-        "id":9,
-         "name":"10% Niacinamide Serum",
-         "price":"₹599",
-         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOBBXijmd1679934642_6fd5b0abac2559016a3c6a63df167e6b5adaa52a94171ea808aab735b5638dc3.jpg"
-    },
-    {
-        "id":10,
-         "name":"Ginger Hair Oil For Dandruff Care With Comb Applicator - 100 MlFrom Wow Skin Science",
-         "price":"₹325",
-         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOHZXHtJ21680261245_22e1dd24c822709aa22a93cbd74fcfa36e750af43a0c847d3ebed30296730eed.jpg"
-    },
-    {
-        "id":11,
-         "name":"Stretch Care Body Butte",
-         "price":"₹499",
-         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLObJDEtQ31680174595_19a731e5da41f50b8e4c87a27f21b4d195c98fcd286063a3c5bb94dd87593a50.jpg"
-    },
-    {
-        "id":12,
-         "name":"Thai Body Massage Oil",
-         "price":"₹569",
-         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLO1r4lfot1680261163_7f69e17bfedae2759bf43560b52c4b622fa6c5fac30940e1d0c2b3b2c99f5e85.jpg"
-    },
-    {
-        "id":13,
-         "name":"Vitamin C Hand & Nail Cream - Moisturizing & Refreshing",
-         "price":"₹349",
-         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOqvxnIvP1680285152_5a9a16deebedb30a5c8177073bd7e32062a1312e105c0e64680cc8378fdc6ebf.jpg"
-    },
-    {
-        "id":14,
-         "name":"Matcha Green Tea Foaming Face Wash",
-         "price":"₹399",
-         "image":"https://cdn.plotch.io/image/upload/w_301,h_301/C/V/PLOVuAVA9b1680261235_76bc7c012cb7bea8cf5e0d41252d6203a70600d854e694045a63063001e6acbe.jpg"
-    }
-    
-       
-   ]
+
+    "users":[
+        {
+            "id":"1",
+            "first_name":"sonika",
+            "last_name":"kanojia",
+            "dob":"10-9-1997",
+            "gender":"female",
+            "pan":"2379839494",
+            "pan_issue_date":"20-4-2019",
+            "mobile":"8976543578",
+            "email":"sonikakanojia534@gmail.com",
+            "password":"sonika@2223"
+
+        }
+    ]
 }
